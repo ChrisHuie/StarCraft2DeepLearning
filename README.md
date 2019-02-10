@@ -34,7 +34,18 @@ There are many resources online for learning about Starcraft, including
 
 ## Academic Research
 
-
+>2018 - [_TStarBots: Defeating the Cheating Level Builtin AI in
+StarCraft II in the Full Game_](https://arxiv.org/pdf/1809.07193.pdf)  
+>2018 - [_Modular Architecture for StarCraft II
+with Deep Reinforcement Learning_](https://arxiv.org/pdf/1811.03555.pdf)   
+>2018 - [_StarCraft Micromanagement with Reinforcement
+Learning and Curriculum Transfer Learning_](https://arxiv.org/pdf/1804.00810.pdf)  
+>2018 - [_Replicating DeepMind StarCraft II
+Reinforcement Learning Benchmark
+with Actor-Critic Methods_](https://www.researchgate.net/publication/326881561_Replicating_DeepMind_StarCraft_II_Reinforcement_Learning_Benchmark_with_Actor-Critic_Methods)  
+>2017 - [_Learning Macromanagement in StarCraft
+from Replays using Deep Learning_](https://arxiv.org/pdf/1707.03743.pdf)  
+>2017 - [_Deep Imitation Learning for Playing Real Time Strategy Games_](http://cs229.stanford.edu/proj2017/final-reports/5244338.pdf) 
 
 
 ---
